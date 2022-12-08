@@ -1,4 +1,4 @@
-- ⚙️ [https://steamcommunity.com/id/CommandoCorey/](https://commandocorey.itch.io/)
+- ⚙️ [https://commandocorey.itch.io/](https://commandocorey.itch.io/)
 
 <!---
 CommandoCorey/CommandoCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
