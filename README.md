@@ -1,6 +1,8 @@
-- ⚙️ [https://commandocorey.itch.io/](https://commandocorey.itch.io/)
+Year 2 Graduate of Games Design at AIE | Academy of Interactive Entertainment (Melbourne, AU)
 
-<!---
-CommandoCorey/CommandoCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can contact me at:
+- 📧 corey.hunt141@hotmail.com
+
+Checkout free games I've worked on:
+
+- 🔗 [https://commandocorey.itch.io/](https://commandocorey.itch.io/)
